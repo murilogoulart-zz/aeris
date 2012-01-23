@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="aeris-ejb">
+        <wb-resource deploy-path="/" source-path="/src" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/aeris-ejb/build/classes"/>
+        <property name="ClientProject" value="aeris-ejb-client"/>
+        <property name="ClientJARURI" value="aeris-ejb-client.jar"/>
+    </wb-module>
+</project-modules>
